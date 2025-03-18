@@ -1,0 +1,288 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5358688185@s.whatsapp.net',
+    fromMe: false,
+    id: '3F7076C7388844B44912',
+    participant: undefined
+  },
+  messageTimestamp: 1742282156,
+  pushName: 'iariel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola que tal estas?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola que tal estas?',
+  name: 'iariel',
+  from: '5358688185',
+  host: '5363932970'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8491859a-f6c7-4669-9835-6ec855bbe9a9',
+  keyword: 'key_6b82468f-e8bf-42ac-8af8-4e8c774fde33',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a2b91f6fb34d4dca2ef3964c02106646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5358688185@s.whatsapp.net',
+    fromMe: false,
+    id: '3FD9609B55B53E2BFCC3',
+    participant: undefined
+  },
+  messageTimestamp: 1742282166,
+  pushName: 'iariel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'actua como  un gatito',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'actua como  un gatito',
+  name: 'iariel',
+  from: '5358688185',
+  host: '5363932970'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8491859a-f6c7-4669-9835-6ec855bbe9a9',
+  keyword: 'key_6b82468f-e8bf-42ac-8af8-4e8c774fde33',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a2b91f6fb34d4dca2ef3964c02106646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5358688185@s.whatsapp.net',
+    fromMe: false,
+    id: '3F0ED7002255DDEE11F4',
+    participant: undefined
+  },
+  messageTimestamp: 1742282174,
+  pushName: 'iariel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '/reset', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '/reset',
+  name: 'iariel',
+  from: '5358688185',
+  host: '5363932970'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8491859a-f6c7-4669-9835-6ec855bbe9a9',
+  keyword: 'key_6b82468f-e8bf-42ac-8af8-4e8c774fde33',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a2b91f6fb34d4dca2ef3964c02106646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5358688185@s.whatsapp.net',
+    fromMe: false,
+    id: '3FE74444C7C809DCC48E',
+    participant: undefined
+  },
+  messageTimestamp: 1742282198,
+  pushName: 'iariel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'como te dije que actuaras?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como te dije que actuaras?',
+  name: 'iariel',
+  from: '5358688185',
+  host: '5363932970'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8491859a-f6c7-4669-9835-6ec855bbe9a9',
+  keyword: 'key_6b82468f-e8bf-42ac-8af8-4e8c774fde33',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a2b91f6fb34d4dca2ef3964c02106646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5358688185@s.whatsapp.net',
+    fromMe: false,
+    id: '3FDDB782344AEFD1726A',
+    participant: undefined
+  },
+  messageTimestamp: 1742282235,
+  pushName: 'iariel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'cual fue la primera pregunta que te hice ?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cual fue la primera pregunta que te hice ?',
+  name: 'iariel',
+  from: '5358688185',
+  host: '5363932970'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8491859a-f6c7-4669-9835-6ec855bbe9a9',
+  keyword: 'key_6b82468f-e8bf-42ac-8af8-4e8c774fde33',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a2b91f6fb34d4dca2ef3964c02106646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5358688185@s.whatsapp.net',
+    fromMe: false,
+    id: '3FE77915E4EFC07628AF',
+    participant: undefined
+  },
+  messageTimestamp: 1742282252,
+  pushName: 'iariel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '/reset', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '/reset',
+  name: 'iariel',
+  from: '5358688185',
+  host: '5363932970'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8491859a-f6c7-4669-9835-6ec855bbe9a9',
+  keyword: 'key_6b82468f-e8bf-42ac-8af8-4e8c774fde33',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a2b91f6fb34d4dca2ef3964c02106646'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5358688185@s.whatsapp.net',
+    fromMe: false,
+    id: '3FED464E285BA2245103',
+    participant: undefined
+  },
+  messageTimestamp: 1742282267,
+  pushName: 'iariel',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'cual fue la primera pregunta que te hice ?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'cual fue la primera pregunta que te hice ?',
+  name: 'iariel',
+  from: '5358688185',
+  host: '5363932970'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8491859a-f6c7-4669-9835-6ec855bbe9a9',
+  keyword: 'key_6b82468f-e8bf-42ac-8af8-4e8c774fde33',
+  answer: '__call_action__',
+  options: {
+    media: undefined,
+    buttons: [],
+    capture: false,
+    delay: 0,
+    idle: undefined,
+    ref: undefined,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a2b91f6fb34d4dca2ef3964c02106646'
+}
